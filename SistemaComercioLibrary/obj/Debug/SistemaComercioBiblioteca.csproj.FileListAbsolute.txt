@@ -1,0 +1,7 @@
+E:\microsoft visual code\repos\SistemaComercio\SistemaComercioLibrary\bin\Debug\SistemaComercioLibrary.dll
+E:\microsoft visual code\repos\SistemaComercio\SistemaComercioLibrary\bin\Debug\SistemaComercioLibrary.pdb
+E:\microsoft visual code\repos\SistemaComercio\SistemaComercioLibrary\obj\Debug\SistemaComercioBiblioteca.csproj.AssemblyReference.cache
+E:\microsoft visual code\repos\SistemaComercio\SistemaComercioLibrary\obj\Debug\SistemaComercioBiblioteca.csproj.CoreCompileInputs.cache
+E:\microsoft visual code\repos\SistemaComercio\SistemaComercioLibrary\obj\Debug\SistemaComercioLibrary.dll
+E:\microsoft visual code\repos\SistemaComercio\SistemaComercioLibrary\obj\Debug\SistemaComercioLibrary.pdb
+E:\microsoft visual code\repos\SistemaComercio\SistemaComercioLibrary\bin\Debug\SistemaComercioLibrary.dll.config
